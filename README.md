@@ -142,7 +142,7 @@ grep -v hello newfile
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-<img width="728" height="74" alt="image" src="https://github.com/user-attachments/assets/54246455-5b52-49ed-ad48-ca21e3d024a5" />
+<img width="577" height="47" alt="image" src="https://github.com/user-attachments/assets/1280c0c5-1e7c-49f1-8b01-eb8d452039d4" />
 
 
 
