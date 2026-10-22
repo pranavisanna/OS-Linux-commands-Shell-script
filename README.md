@@ -136,8 +136,7 @@ grep hello newfile
 
 grep -v hello newfile 
 ## OUTPUT
-<img width="940" height="26" alt="image" src="https://github.com/user-attachments/assets/3f45f471-04fc-4b0b-a509-6f95ea34e55a" />
-
+<img width="577" height="47" alt="image" src="https://github.com/user-attachments/assets/854bb3ae-4502-4010-a99f-fe8102d39a52" />
 
 
 cat newfile | grep -i "hello"
