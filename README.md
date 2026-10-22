@@ -159,8 +159,7 @@ grep -R ubuntu /etc
 
 grep -w -n world newfile   
 ## OUTPUT
-<img width="940" height="36" alt="image" src="https://github.com/user-attachments/assets/8bdb3e84-19a1-4bf2-9aed-28082a205da9" />
-
+<img width="654" height="68" alt="image" src="https://github.com/user-attachments/assets/2407c43b-ac0e-4e6c-a356-ed5c1efa21d3" />
 
 cat < newfile 
 ```
