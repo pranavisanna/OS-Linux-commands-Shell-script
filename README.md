@@ -207,7 +207,8 @@ egrep '(^hello)' newfile
 
 egrep '(world$)' newfile 
 ## OUTPUT
-<img width="940" height="47" alt="image" src="https://github.com/user-attachments/assets/eb10d803-e087-4ba1-9544-63d956ef98c5" />
+<img width="634" height="94" alt="image" src="https://github.com/user-attachments/assets/dac02fc2-90fc-4d86-95fb-18188469045b" />
+
 
 
 
