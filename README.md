@@ -1110,7 +1110,7 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- <img width="940" height="48" alt="image" src="https://github.com/user-attachments/assets/5878717a-d76d-48a6-85a5-d2a2c36c8c2a" />
+<img width="775" height="555" alt="image" src="https://github.com/user-attachments/assets/ac485647-08b4-406b-8082-b5c043cac5ab" />
 
 cat argshift.sh
 ```bash
