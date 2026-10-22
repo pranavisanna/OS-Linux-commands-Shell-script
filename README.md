@@ -94,7 +94,8 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
-<img width="940" height="269" alt="image" src="https://github.com/user-attachments/assets/41a41ec0-fb39-48be-ac15-b474b06ec234" />
+
+<img width="673" height="255" alt="image" src="https://github.com/user-attachments/assets/0fea25d6-8804-40a6-b64f-df0038555e6c" />
 
 
 
@@ -102,11 +103,13 @@ cut -c1-3 file11
 cut -d "|" -f 1 file22
 ## OUTPUT
 
+<img width="685" height="117" alt="image" src="https://github.com/user-attachments/assets/dbb18ed5-8083-4e92-8e14-802d5be4f1d9" />
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
 
+<img width="657" height="115" alt="image" src="https://github.com/user-attachments/assets/58346380-b5f8-4c20-8293-f6e20a6e1ee3" />
 
 cat < newfile 
 ```
@@ -120,13 +123,13 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
-<img width="940" height="81" alt="image" src="https://github.com/user-attachments/assets/e2022788-87db-46f1-904a-19dc603ba406" />
+<img width="582" height="49" alt="image" src="https://github.com/user-attachments/assets/748f829b-f62c-49dd-95e7-b8f3df05f00b" />
 
 
 
 grep hello newfile 
 ## OUTPUT
-<img width="940" height="81" alt="image" src="https://github.com/user-attachments/assets/d8b3caea-05a8-4213-931f-b14ece7736dc" />
+<img width="630" height="47" alt="image" src="https://github.com/user-attachments/assets/11e28491-d93c-48a9-8226-967e78a10021" />
 
 
 
