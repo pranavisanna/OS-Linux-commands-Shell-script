@@ -182,7 +182,8 @@ Linux is best in this World
  ```
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
-<img width="940" height="34" alt="image" src="https://github.com/user-attachments/assets/fb2a5ecc-6385-4fc2-bcd6-ce0991b85bad" />
+<img width="683" height="71" alt="image" src="https://github.com/user-attachments/assets/b7f03ae4-dd1e-4067-94f0-44240cd10ba9" />
+
 
 
 
