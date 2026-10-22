@@ -142,15 +142,14 @@ grep -v hello newfile
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-<img width="940" height="36" alt="image" src="https://github.com/user-attachments/assets/f4140057-9503-4ba0-8bec-8506775fb228" />
+<img width="728" height="74" alt="image" src="https://github.com/user-attachments/assets/54246455-5b52-49ed-ad48-ca21e3d024a5" />
 
 
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
-<img width="940" height="36" alt="image" src="https://github.com/user-attachments/assets/1b5e3e14-bb24-4f52-81ae-96c02272746e" />
-
+<img width="753" height="50" alt="image" src="https://github.com/user-attachments/assets/d0f1a505-e505-4050-bd0d-c128284a4888" />
 
 
 
