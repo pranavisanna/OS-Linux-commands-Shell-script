@@ -189,21 +189,20 @@ egrep -w 'Hello|hello' newfile
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
-<img width="940" height="35" alt="image" src="https://github.com/user-attachments/assets/be32fd8d-2dfb-4e08-8466-dfd4e3ae356f" />
-
+<img width="674" height="74" alt="image" src="https://github.com/user-attachments/assets/2033a594-7fd4-458c-ab5f-9756e19df98d" />
 
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
-<img width="940" height="35" alt="image" src="https://github.com/user-attachments/assets/8549e4c1-05b5-424e-af94-46df499a3d08" />
+<img width="760" height="69" alt="image" src="https://github.com/user-attachments/assets/1eedbcaf-f376-458e-ad5a-c3d99b8fe25c" />
+
 
 
 
 
 egrep '(^hello)' newfile 
 ## OUTPUT
-<img width="940" height="25" alt="image" src="https://github.com/user-attachments/assets/bb1b1213-f605-4e40-84e1-02f0457be737" />
-
+<img width="605" height="48" alt="image" src="https://github.com/user-attachments/assets/eb069cf5-cd0a-4c06-82ac-f86ae911f128" />
 
 
 egrep '(world$)' newfile 
